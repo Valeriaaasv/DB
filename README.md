@@ -20,3 +20,4 @@ EX3:
 EX4:
 
 <img width="836" alt="lab 1 ex 4" src="https://user-images.githubusercontent.com/43130876/49701375-833dba80-fba0-11e8-8fb2-4df426bfd71c.PNG">
+
