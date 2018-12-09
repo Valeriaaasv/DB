@@ -10,3 +10,8 @@ EX1:
 EX2:
 
 <img width="840" alt="lab 1 ex 2" src="https://user-images.githubusercontent.com/43130876/49701339-13c7cb00-fba0-11e8-81f3-5164b26969de.PNG">
+
+
+EX3:
+
+<img width="838" alt="lab 1 ex 3" src="https://user-images.githubusercontent.com/43130876/49701359-4245a600-fba0-11e8-8edf-dbea5da8ff4d.PNG">
