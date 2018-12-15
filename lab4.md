@@ -16,7 +16,7 @@ where Tip_Evaluare = 'Testul 2' and Id_Disciplina = 107 and Data_Evaluare like '
 
 
 
-
+Nr de ordine +16:
 36.Gasiti denumirile disciplinelor  si media notelor pe disciplina. Afisati numai disciplinele cu medii mai mari de 7.0.
 
 select d.Disciplina,AVG(cast(sr.Nota as float)) as Media
@@ -29,8 +29,7 @@ order by Media
 <img width="252" alt="lab 4 36" src="https://user-images.githubusercontent.com/43130876/50044391-a43a5b80-0037-11e9-9b8d-5e447c42c3e8.PNG">
 
 
-
-
+Random 28-39:
 32. Furnizati numele, prenumele si media notelor pe grupe pentru studenti.
 
 
